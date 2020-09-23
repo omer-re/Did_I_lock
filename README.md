@@ -27,16 +27,19 @@ What do YOU think should be the next feature?
 
 https://www.linkedin.com/posts/omer-reuveni_ocd-quarantivity-covidabrandabrfun-activity-6714069139440324608-P6dV
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WihCix6GyB4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #TO DO:
 
 - fix the "/check/ button that is not functioning properly.
 - alert by who is connected to the same wifi [door is unlocked&&no devices on network for the past 5 minutes]
 - script starts on reboot
-V log data to google sheet
 - change filter to user id instead of username
 - create a separate secrets.py with allowed users and bot token
 - convert project to arduino
 - costumizing a case
 - adding an interrupt to log and alert when turning off
 - turning GPIO off if fails and exists the program.
+
+#Done:
+- log data to google sheet
