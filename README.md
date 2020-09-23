@@ -8,13 +8,19 @@ This cute system includes simple hardware & software put together to answer this
 It is always a huge satisfaction to make an idea come true to a fully functioning product!
 
 ✅ Indicating if the door is locked or not.
+
 ✅ Integrated with a secured chatbot.
+
 ✅ Can be easily fitted to any existing setting of a door.
+
 
 Future features:
 🥁 Predict if we forgot to lock the door by scanning the local wifi.
+
 🥁 Customizing a prettier case.
+
 🥁 Convert it to an Arduino micro-controller.
+
 
 What do YOU think should be the next feature?
 
