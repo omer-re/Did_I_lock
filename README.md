@@ -36,7 +36,6 @@ https://www.linkedin.com/posts/omer-reuveni_ocd-quarantivity-covidabrandabrfun-a
 - alert by who is connected to the same wifi [door is unlocked&&no devices on network for the past 5 minutes]
 - script starts on reboot
 - change filter to user id instead of username
-- create a separate secrets.py with allowed users and bot token
 - convert project to arduino
 - costumizing a case
 - adding an interrupt to log and alert when turning off
@@ -44,3 +43,4 @@ https://www.linkedin.com/posts/omer-reuveni_ocd-quarantivity-covidabrandabrfun-a
 
 # Done:
 - log data to google sheet
+- create a separate secrets.py with allowed users and bot token
