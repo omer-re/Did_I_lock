@@ -27,7 +27,8 @@ What do YOU think should be the next feature?
 
 https://www.linkedin.com/posts/omer-reuveni_ocd-quarantivity-covidabrandabrfun-activity-6714069139440324608-P6dV
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WihCix6GyB4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Take A look](https://i.imgur.com/LvHRftl.png)](https://www.youtube.com/embed/WihCix6GyB4)
 
 #TO DO:
 
