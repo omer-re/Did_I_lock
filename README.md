@@ -30,7 +30,7 @@ https://www.linkedin.com/posts/omer-reuveni_ocd-quarantivity-covidabrandabrfun-a
 
 [![Take A look](https://i.imgur.com/LvHRftl.png)](https://www.youtube.com/embed/WihCix6GyB4)
 
-#TO DO:
+# TO DO:
 
 - fix the "/check/ button that is not functioning properly.
 - alert by who is connected to the same wifi [door is unlocked&&no devices on network for the past 5 minutes]
@@ -42,5 +42,5 @@ https://www.linkedin.com/posts/omer-reuveni_ocd-quarantivity-covidabrandabrfun-a
 - adding an interrupt to log and alert when turning off
 - turning GPIO off if fails and exists the program.
 
-#Done:
+# Done:
 - log data to google sheet
