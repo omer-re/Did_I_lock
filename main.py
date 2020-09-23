@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-# check if button is pressed
 # -*- coding: utf-8 -*-
 from gpiozero import LED, Button
 import timeit
@@ -18,7 +17,6 @@ button = Button(17)
 global curr_state
 curr_state = "unlocked"
 prev_state = None
-# if button is pressed- green light, otherwise red light
 counter = 0
 last_locked_time = None
 
