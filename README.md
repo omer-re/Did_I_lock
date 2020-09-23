@@ -15,6 +15,7 @@ It is always a huge satisfaction to make an idea come true to a fully functionin
 
 
 Future features:
+
 🥁 Predict if we forgot to lock the door by scanning the local wifi.
 
 🥁 Customizing a prettier case.
@@ -32,9 +33,10 @@ https://www.linkedin.com/posts/omer-reuveni_ocd-quarantivity-covidabrandabrfun-a
 - fix the "/check/ button that is not functioning properly.
 - alert by who is connected to the same wifi [door is unlocked&&no devices on network for the past 5 minutes]
 - script starts on reboot
-- log data to google sheet
+V log data to google sheet
 - change filter to user id instead of username
 - create a separate secrets.py with allowed users and bot token
 - convert project to arduino
 - costumizing a case
 - adding an interrupt to log and alert when turning off
+- turning GPIO off if fails and exists the program.
